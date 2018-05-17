@@ -29,7 +29,7 @@ public class TexttestFixture {
 				System.out.println(item);
 			}
 			System.out.println();
-			app.updateQualityLegacy();
+			app.updateQuality();
 		}
 	}
 
